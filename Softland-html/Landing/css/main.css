@@ -1,13 +1,4 @@
-/******************************************************************
-Theme Name: Softdash
-Description:  Creative SaaS and Software HTML Template. You can use Softdash 
-              as a better way to present and promote your start-up mobile apps, 
-              saas applications, software, digital products.
-Author: Codethemes
-Author URI: https://themeforest.net/user/codethemes/portfolio
-Version: 1.0
-Created: 
-******************************************************************/
+
 /*------------------------------------------------------------------
 
 
@@ -21,7 +12,7 @@ Created:
 	1.3	Flexbox
 	1.4	Reset
 2.  Elements
-3.  Menu 
+3.  Menu
 4.  Hero
 5.  Home
 6.  Price
@@ -65,13 +56,13 @@ Font-Family 	:	'Roboto', sans-serif;
 	h6  : 	14px
 
 Font-Family 	:	'Open Sans', sans-serif;
-	
-	p: 14px 
+
+	p: 14px
 
 
 -----------------------------------------------------------------------*/
 /* =================================== */
-/*  Basic Style 
+/*  Basic Style
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
@@ -714,6 +705,7 @@ td, th {
 .white-bg {
   background: #ffffff; }
 
+
 @media (max-width: 767px) {
   .no-flex-xs {
     display: block !important; } }
@@ -727,7 +719,7 @@ td, th {
     margin-top: 0; } }
 
 /*--------------------------------------------------------------
-# Elements 
+# Elements
 --------------------------------------------------------------*/
 .section-gap {
   padding: 120px 0; }
@@ -3450,7 +3442,7 @@ dl.accordion.time-line:before {
     box-shadow: 0px 10px 30px 0px rgba(135, 170, 218, 0.3); }
 
 /*--------------------------------------------------------------
-# Features 
+# Features
 --------------------------------------------------------------*/
 .features-content h4 {
   margin-bottom: 25px; }
