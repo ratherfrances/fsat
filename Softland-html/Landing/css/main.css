@@ -63,6 +63,10 @@ Font-Family 	:	'Open Sans', sans-serif;
 /* =================================== */
 /*  Basic Style
 /* =================================== */
+body {
+  background-color: #edf6ff;
+  color: black;
+}
 ::-moz-selection {
   /* Code for Firefox */
   background-color: #5fb9fd;
