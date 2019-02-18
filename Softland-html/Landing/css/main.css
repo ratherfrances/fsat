@@ -65,6 +65,15 @@ Font-Family 	:	'Open Sans', sans-serif;
 /* =================================== */
 body {
 background: white;
+font-family: 'Overpass', sans-serif;
+}
+
+#features{
+  background-color: #9384FF;
+}
+
+#features p{
+  color: black;
 }
 
 
@@ -114,7 +123,7 @@ background: white;
 
 body {
   color: #777777;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Overpass', sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 1.625em;
