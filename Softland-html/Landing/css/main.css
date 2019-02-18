@@ -64,9 +64,18 @@ Font-Family 	:	'Open Sans', sans-serif;
 /*  Basic Style
 /* =================================== */
 body {
-  background-color: #edf6ff;
-  color: black;
+background: white;
 }
+
+
+.footer-area {
+  background-image: url(../img/footer2-bg.jpg);
+  }
+
+  .footer-area {
+    color: black;
+  }
+
 ::-moz-selection {
   /* Code for Firefox */
   background-color: #5fb9fd;
@@ -3248,7 +3257,7 @@ dl.accordion.time-line:before {
   color: #5fb9fd; }
 
 .version2 .single-card:hover .card-title {
-  color: #5960ff; }
+  color: #5fb9fd; }
 
 .version1-1 .single-card:hover .card-title {
   color: #5fb9fd; }
@@ -3498,13 +3507,13 @@ dl.accordion.time-line:before {
 # Contact
 --------------------------------------------------------------*/
 .version2 .contact-section {
-  background: url(../img/contact/contact-bg.jpg) no-repeat left; }
+  /*background: url(../img/contact/contact-bg.jpg) no-repeat left; }*/
 
 .version4 .contact-section {
-  background: url(../img/contact/contact-bg.jpg) no-repeat left; }
+  /*background: url(../img/contact/contact-bg.jpg) no-repeat left; }*/
 
 .version9 .contact-section {
-  background: url(../img/contact/contact-bg.jpg) no-repeat left; }
+  /*background: url(../img/contact/contact-bg.jpg) no-repeat left; }*/
 
 .map-wrap {
   width: 100%;
@@ -3627,8 +3636,9 @@ dl.accordion.time-line:before {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
-.footer-area {
-  background: url(../img/footer/footer2-bg.jpg) no-repeat bottom center/cover; }
+
+
+
   .footer-area .social-icons a:hover {
     background: #fff !important;
     color: #5960ff !important; }
@@ -3715,5 +3725,4 @@ dl.accordion.time-line:before {
   @media (max-width: 991px) {
     .footer-area .footer-bottom {
       margin-top: 0px !important; } }
-
 /*# sourceMappingURL=main.css.map */
